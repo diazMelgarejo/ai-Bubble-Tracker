@@ -1,0 +1,21 @@
+{
+  "name": "AI Bubble Tracker",
+  "short_name": "AIBubble",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "description": "Compare the historical dotcom bubble with the ongoing AI boom and explore peak projections for crypto and indices.",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
