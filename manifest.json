@@ -1,11 +1,14 @@
 {
   "name": "AI Bubble Tracker",
   "short_name": "AIBubble",
-  "start_url": ".",
+  // Ensure the app loads from the correct subpath when hosted on GitHub Pages.
+  "start_url": "/ai-Bubble-Tracker/",
+  "scope": "/ai-Bubble-Tracker/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#667eea",
   "description": "Compare the historical dotcom bubble with the ongoing AI boom and explore peak projections for crypto and indices.",
+  // The icons can point to hosted assets or be replaced with real icons when added to the repository.
   "icons": [
     {
       "src": "https://via.placeholder.com/192",
